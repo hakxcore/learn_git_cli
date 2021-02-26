@@ -1,5 +1,5 @@
 # learn_git_cli
-still in progress...
+Please correct the mistales if any <3
 
 GITHUB COMMANDS FOR BEGINNERS
 
@@ -46,7 +46,7 @@ GITHUB COMMANDS FOR BEGINNERS
 5. git clone <link_for_repo>
 6. git status  //check the status of git//
 
-                ######GIT BRANCH COMMANDS################
+         ##############GIT BRANCH COMMANDS################
 5. git branch  <branch name> //create a new branch.//
 6. git branch --list or  git branch  //list all branches//
 7. git branch -d<branch name>  //Delete a branch.//
@@ -62,6 +62,7 @@ GITHUB COMMANDS FOR BEGINNERS
 17. git log -1 //show top commit//
 18. git log -2 //show 2nd commit from top//
 19. git log --oneline //show all commits in oneline//
+
 
 `
  --global
