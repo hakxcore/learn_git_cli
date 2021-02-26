@@ -78,13 +78,11 @@ The system-level configuration is applied across an entire system. The entire sy
 3. git add README.md
 4. git commit -m "first commit"
 5. git branch -M main
-6. git remote add origin https://github.com/MUKESHKUMAR2001/wish-happynewyear.git
+6. git remote add origin https://github.com/hakxcore/wish-happynewyear.git
 7. git push -u origin main
 
-8 .git remote add origin https://github.com/MUKESHKUMAR2001/wish-happynewyear.git //to create a new repo//
+8 .git remote add origin https://github.com/hakxcore/wish-happynewyear.git //to create a new repo//
 9. git branch -M main
 10. git fetch //to fetch all the changes madded in the local repo//
 11. git merge //to merge all the changes maded//
 12. git push -u origin main
-
-
