@@ -21,8 +21,8 @@
 # learn_git_cli
 
 Please correct the mistakes if any <3
-
-<p align="center"><strong>GITHUB COMMANDS FOR BEGINNERS</strong></p>
+<hr/>
+<p align="center"><strong>GIT COMMANDS</strong></p>
 <hr/>
 
 ## Git configurations
