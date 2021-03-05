@@ -24,7 +24,7 @@ Please correct the mistales if any <3
 
 GITHUB COMMANDS FOR BEGINNERS
 
-
+## Git configurations
 
 ```bash
 > git init //To initialize the dir to git//
@@ -33,29 +33,72 @@ GITHUB COMMANDS FOR BEGINNERS
 > git config --global user.email "user_email@xyz" #//To register an email address of the user//
 > git config --global core.editor Vim #//To select a different test editor//
 > git config --global color.ui true  #//You can customize your Git output to view a personalized color theme//
+``` 
+## Git creating a repository
+
+```bash
+> git init #//To initialize a repository or dir to git
 > git status  #//check the status of git//
+``` 
+## Git staging the files
+
+```bash
+> git add newfile.txt #//to add a new file to a repo//
+> echo "# Dubby Dubby Dub" >> README.md #//Write text to file manually//
+> git add .
+> git add --all
+> git add -A
+> git add <file-name>
+> git add <file-name> <another-file-name> <and-another-file-name>
+> git rm --cached <file-name>
+> git reset <file-name>
+```
+
+## Git pulling and cloning the repository
+
+```bash
 > git clone <url to your repo> #//To clone a repository form github//
 > git pull origin #//To pull a whole doc or repo from github//
+```
+
 > git branch  <branch name> #//create a new branch.//
 > git branch --list or  git branch  #//list all branches//
 > git branch -d <branch name>  #//Delete a branch.//
+
+## Git pushing the repo to the remote server
+
+```bash
+> git remote add origin <link>
+> git push origin #//To push all the changes you have maked to the remote repo or to github//
 > git push origin -delete <branch name>   #//You can delete a remote branch from Git desktop application.//
+``` 
+## Git branching
+
+```bash
 > git checkout <branch name> #//Git allows you to switch between the branches without making a commit.//
 > git branch -m master #//Switch to master branch//
 > git branch -m <old branch name> <new branch name> #//rename the branch with the help of the git branch command.//
 > git merge <branch name> #//merge the other branch with the currently active branch.//
-> git add newfile.txt #//to add a new file to a repo//
+```
+
+## Git committing 
+
+```bash
 > git commit -m "Your message here" #//commit for the file for changes//
 > git commit --ammend #//Overwrite the previous commit//
 > git log --oneline #//checkout the log history//
 > git log -1 #//show top commit//
 > git log -2 #//show 2nd commit from top//
 > git log --oneline #//show all commits in oneline//
-> echo "# wish-happynewyear" >> README.md #//Write text to file manually//
-> git push origin #//To push all the changes you have madded to the remote repo or to github//
+```
+## Others
+
+```bash
 > git fetch #//to fetch all the changes madded in the local repo//
 > git merge #//to merge all the changes maded//
 ```
+
+<hr/>
 
 ## My Notes :)
 
