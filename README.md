@@ -37,16 +37,20 @@ GITHUB COMMANDS FOR BEGINNERS
 
  <p>--global</p>
 The global level configuration is user-specific configuration. User-specific means, it is applied to an individual operating system user. 
-
+<br>
+<br>
 <p>--system</p>
 The system-level configuration is applied across an entire system. The entire system means all users on an operating system and all repositories. The system-level configuration file stores in a gitconfig file off the system directory.
-
+<br>
+<br>
 ## Git creating a repository
 
 ```bash
 > git init #//To initialize a repository or dir to git
 > git status  #//check the status of git//
-``` 
+```
+<br>
+<br>
 ## Git staging the files
 
 ```bash
@@ -60,7 +64,8 @@ The system-level configuration is applied across an entire system. The entire sy
 > git rm --cached <file-name>
 > git reset <file-name>
 ```
-
+<br>
+<br>
 ## Git pulling and cloning the repository
 
 ```bash
@@ -71,7 +76,8 @@ The system-level configuration is applied across an entire system. The entire sy
 > git branch  <branch name> #//create a new branch.//
 > git branch --list or  git branch  #//list all branches//
 > git branch -d <branch name>  #//Delete a branch.//
-
+<br>
+<br>
 ## Git pushing the repo to the remote server
 
 ```bash
@@ -79,6 +85,9 @@ The system-level configuration is applied across an entire system. The entire sy
 > git push origin #//To push all the changes you have maked to the remote repo or to github//
 > git push origin -delete <branch name>   #//You can delete a remote branch from Git desktop application.//
 ``` 
+
+<br>
+<br>
 ## Git branching
 
 ```bash
@@ -87,7 +96,8 @@ The system-level configuration is applied across an entire system. The entire sy
 > git branch -m <old branch name> <new branch name> #//rename the branch with the help of the git branch command.//
 > git merge <branch name> #//merge the other branch with the currently active branch.//
 ```
-
+<br>
+<br>
 ## Git committing 
 
 ```bash
@@ -98,6 +108,9 @@ The system-level configuration is applied across an entire system. The entire sy
 > git log -2 #//show 2nd commit from top//
 > git log --oneline #//show all commits in oneline//
 ```
+<br>
+<br>
+
 ## Others
 
 ```bash
