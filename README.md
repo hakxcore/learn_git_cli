@@ -41,8 +41,10 @@ The global level configuration is user-specific configuration. User-specific mea
 <br>
 <p>--system</p>
 The system-level configuration is applied across an entire system. The entire system means all users on an operating system and all repositories. The system-level configuration file stores in a gitconfig file off the system directory.
+
 <br>
 <br>
+
 ## Git creating a repository
 
 ```bash
@@ -51,6 +53,7 @@ The system-level configuration is applied across an entire system. The entire sy
 ```
 <br>
 <br>
+
 ## Git staging the files
 
 ```bash
@@ -66,6 +69,7 @@ The system-level configuration is applied across an entire system. The entire sy
 ```
 <br>
 <br>
+
 ## Git pulling and cloning the repository
 
 ```bash
@@ -76,8 +80,10 @@ The system-level configuration is applied across an entire system. The entire sy
 > git branch  <branch name> #//create a new branch.//
 > git branch --list or  git branch  #//list all branches//
 > git branch -d <branch name>  #//Delete a branch.//
+
 <br>
 <br>
+
 ## Git pushing the repo to the remote server
 
 ```bash
@@ -88,6 +94,7 @@ The system-level configuration is applied across an entire system. The entire sy
 
 <br>
 <br>
+
 ## Git branching
 
 ```bash
@@ -98,6 +105,7 @@ The system-level configuration is applied across an entire system. The entire sy
 ```
 <br>
 <br>
+
 ## Git committing 
 
 ```bash
