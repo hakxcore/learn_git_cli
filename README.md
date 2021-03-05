@@ -20,9 +20,10 @@
          
 # learn_git_cli
 
-Please correct the mistales if any <3
+Please correct the mistakes if any <3
 
-GITHUB COMMANDS FOR BEGINNERS
+<p align="center"><strong>GITHUB COMMANDS FOR BEGINNERS</strong></p>
+<hr/>
 
 ## Git configurations
 
@@ -41,6 +42,7 @@ The global level configuration is user-specific configuration. User-specific mea
 <br>
 <p>--system</p>
 The system-level configuration is applied across an entire system. The entire system means all users on an operating system and all repositories. The system-level configuration file stores in a gitconfig file off the system directory.
+<hr/>
 
 <br>
 <br>
@@ -51,6 +53,7 @@ The system-level configuration is applied across an entire system. The entire sy
 > git init #//To initialize a repository or dir to git
 > git status  #//check the status of git//
 ```
+<hr/>
 <br>
 <br>
 
@@ -67,6 +70,7 @@ The system-level configuration is applied across an entire system. The entire sy
 > git rm --cached <file-name>
 > git reset <file-name>
 ```
+<hr/>
 <br>
 <br>
 
@@ -77,10 +81,7 @@ The system-level configuration is applied across an entire system. The entire sy
 > git pull origin #//To pull a whole doc or repo from github//
 ```
 
-> git branch  <branch name> #//create a new branch.//
-> git branch --list or  git branch  #//list all branches//
-> git branch -d <branch name>  #//Delete a branch.//
-
+<hr/>
 <br>
 <br>
 
@@ -91,18 +92,22 @@ The system-level configuration is applied across an entire system. The entire sy
 > git push origin #//To push all the changes you have maked to the remote repo or to github//
 > git push origin -delete <branch name>   #//You can delete a remote branch from Git desktop application.//
 ``` 
-
+<hr/>
 <br>
 <br>
 
 ## Git branching
 
 ```bash
+> git branch  <branch name> #//create a new branch.//
+> git branch --list or  git branch  #//list all branches//
+> git branch -d <branch name>  #//Delete a branch.//
 > git checkout <branch name> #//Git allows you to switch between the branches without making a commit.//
 > git branch -m master #//Switch to master branch//
 > git branch -m <old branch name> <new branch name> #//rename the branch with the help of the git branch command.//
 > git merge <branch name> #//merge the other branch with the currently active branch.//
 ```
+<hr/>
 <br>
 <br>
 
@@ -116,6 +121,7 @@ The system-level configuration is applied across an entire system. The entire sy
 > git log -2 #//show 2nd commit from top//
 > git log --oneline #//show all commits in oneline//
 ```
+<hr/>
 <br>
 <br>
 
