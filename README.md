@@ -20,7 +20,7 @@
          
 # learn_git_cli
 
-Please correct the mistakes if any 
+Please correct the mistakes if any 😇
 <hr/>
 <p align="center"><strong>GIT COMMANDS</strong></p>
 <hr/>
