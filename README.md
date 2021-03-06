@@ -125,6 +125,26 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
+## Git stash and reset
+
+```bash
+> git stash #Stashing your work 
+> git stash list #Stashed work's list
+> git stash apply stash@(0) #reset the stash no (0)
+> git add . #git add stashed data
+> git commit -m 'message' #comitting your work
+> git merge branch_name #merging the brances
+> git push origin master #pushing the changes to the remote repository
+> git stash clear #clear the stash
+> git conflict #get solve the conflict
+> git reset #reset(undo) change
+> git reset --hard #reset(undo) all the changes
+```
+
+<hr/>
+<br>
+<br>
+
 ## Others
 
 ```bash
@@ -133,7 +153,3 @@ The system-level configuration is applied across an entire system. The entire sy
 ```
 
 <hr/>
-
-`
-
-`
