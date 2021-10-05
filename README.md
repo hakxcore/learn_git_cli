@@ -24,7 +24,7 @@ Please correct the mistakes if any 😇
 ```bash 
 sudo apt-get install git
 ```
-for other operating systems  [click](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) here.
+For other operating systems  [click](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) here.
 </br>
 </br>
 </br>
