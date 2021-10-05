@@ -151,7 +151,7 @@ The system-level configuration is applied across an entire system. The entire sy
 
 <hr/>
 
-💡Suggested website: [Gitexplorer](https://gitexplorer.com/)
+  💡Suggested website: [Gitexplorer](https://gitexplorer.com/)
 
 ## Credits
 Copyright © 2021 by <a href="https://github.com/hakxcore">Hakxcore</a>
