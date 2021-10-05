@@ -22,7 +22,7 @@ Please correct the mistakes if any 😇
 <p align="center"><strong>GIT COMMANDS</strong></p>
 <hr/>
 
-## Git configurations
+## Git `config`
 
 ```bash
 > git init To initialize the dir to git
@@ -71,7 +71,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Git pulling and cloning the repository
+## Git `pull` and `clone`
 
 ```bash
 > git clone <url to your repo> #To clone a repository form github
@@ -82,7 +82,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Git pushing the repo to the remote server
+## Git `push` to push the repo to the remote server
 
 ```bash
 > git remote add origin <link>
@@ -93,7 +93,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Git branching
+## Git `branch`
 
 ```bash
 > git branch  <branch name> #create a new branch.
@@ -108,7 +108,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Git committing 
+## Git `commit` and `log` 
 
 ```bash
 > git commit -m "Your message here" #commit for the file for changes
@@ -122,7 +122,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Git stash and reset
+## Git `stash` and `reset`
 
 ```bash
 > git stash #Stashing your work 
@@ -142,7 +142,7 @@ The system-level configuration is applied across an entire system. The entire sy
 <br>
 <br>
 
-## Others
+## Git `fetch` and `merge`
 
 ```bash
 > git fetch #to fetch all the changes madded in the local repo
