@@ -19,6 +19,16 @@
 
 Please correct the mistakes if any 😇
 <hr/>
+
+# Installation on Terminal
+```bash 
+sudo apt-get install git
+```
+for other operating systems  [click](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) here.
+</br>
+</br>
+</br>
+</br>
 <p align="center"><strong>GIT COMMANDS</strong></p>
 <hr/>
 
