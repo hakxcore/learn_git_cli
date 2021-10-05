@@ -25,7 +25,7 @@ Please correct the mistakes if any 😇
 ## Git `config`
 
 ```bash
-> git init To initialize the dir to git
+> git init #To initialize the dir to git
 > git remote add origin <url to your github account> #to create a new repo
 > git config --global user.name "name_of_user" #To register a user on github
 > git config --global user.email "user_email@xyz" #To register an email address of the user
